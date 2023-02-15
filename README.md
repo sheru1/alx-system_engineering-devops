@@ -1,1 +1,1 @@
-Task 10.where am i
+ 0-alias
